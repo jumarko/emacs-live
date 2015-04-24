@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
- cider-jack-in
- package-refresh-contents
+ load-library
+ list-packages
  package-install
+ load-file
+ package-refresh-contents
  package-list-packages
  eval-buffer
- cd
- 5x5
 )
 
 ;; ----- smex-data -----
@@ -15,9 +15,14 @@
  (eval-buffer . 1)
  (cider-connect . 4)
  (disable-paredit-mode . 2)
- (package-install . 2)
+ (package-install . 3)
  (package-list-packages . 1)
  (package-refresh-contents . 2)
  (cider-jack-in . 3)
  (clojure-mode . 1)
+ (load-file . 6)
+ (yas-load-directory . 1)
+ (list-packages . 1)
+ (load-library . 6)
+ (project-explorer-open . 2)
 )

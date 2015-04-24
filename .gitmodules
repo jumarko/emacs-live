@@ -152,3 +152,12 @@
 [submodule "packs/dev/clojure-pack/vendor/submodules/ac-cider"]
 	path = packs/dev/clojure-pack/vendor/submodules/ac-cider
 	url = git://github.com/clojure-emacs/ac-cider.git
+[submodule "project-explorer"]
+	path = project-explorer
+	url = git@github.com:sabof/project-explorer.git
+[submodule "es-lib"]
+	path = es-lib
+	url = git@github.com:sabof/es-lib.git
+[submodule "es-windows"]
+	path = es-windows
+	url = https://github.com/sabof/es-windows

@@ -234,3 +234,9 @@
 (setq nrepl-buffer-name-show-port t)
 
 ;; TODO: paredit tweaks - default slurp and barf shortcuts doesn't work
+
+;; load custom plugins
+(add-to-list 'load-path "~/.emacs.d/es-lib/")
+(add-to-list 'load-path "~/.emacs.d/es-windows")
+(add-to-list 'load-path "~/.emacs.d/project-explorer/")
+(require 'project-explorer)

@@ -226,3 +226,11 @@
 
 (message "\n\n Pack loading completed. Your Emacs is Live...\n\n")
 (put 'downcase-region 'disabled nil)
+
+;; show line numbers
+(global-linum-mode t)
+
+;; repl buffer name displays port on which the nREPL server is running
+(setq nrepl-buffer-name-show-port t)
+
+;; TODO: paredit tweaks - default slurp and barf shortcuts doesn't work

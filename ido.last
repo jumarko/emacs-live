@@ -1,0 +1,118 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/src/" . "getting_started_with_clojure_webapps/")
+ ("/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/" . "src/")
+ ("/Users/jumar/workspace/clojure/clojure-code-wars/src/" . "clojure_code_wars/")
+ ("/Users/jumar/workspace/clojure/clojure-code-wars/" . "test/")
+ ("/Users/" . "jumar/")
+ ("/" . "Users/")
+ ("/Users/jumar/" . "workspace/")
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/examples/" . "ch02/")
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/code/src/" . "examples/")
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/" . "examples/")
+ ("/Users/jumar/workspace/clojure/" . "project-euler-clojure/")
+ ("/Users/jumar/workspace/" . "clojure/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/src/getting_started_with_clojure_webapps/"
+ "/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/"
+ "/Users/jumar/workspace/clojure/clojure-examples/src/clojure_examples/"
+ "/Users/jumar/workspace/clojure/clojure-code-wars/test/"
+ "/Users/jumar/workspace/clojure/clojure-code-wars/src/clojure_code_wars/"
+ "/Users/jumar/workspace/clojure/project-euler-clojure/"
+ "/Users/jumar/workspace/clojure/euler/"
+ "/Users/jumar/.emacs.d/"
+ "/Users/jumar/"
+ "/Users/jumar/workspace/clojure/ProgrammingClojure2ed/examples/ch02/"
+ "/Users/jumar/workspace/clojure/ProgrammingClojure2ed/examples/ch01/"
+ "/Users/jumar/workspace/clojure/tutorial/"
+ "/Users/jumar/workspace/clojure/ProgrammingClojure2ed/code/src/examples/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "project.clj"
+ "print_java.clj"
+ "palindrom.clj"
+ "nearest_number.clj"
+ "fizzbuzz.clj"
+ ".#fizzbugzz.clj"
+ "fizzbugzz.clj"
+ "bookseler_test.clj"
+ "bookseller.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/src/getting_started_with_clojure_webapps/" (21817 766 0 0) "core.clj" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/" (21817 646 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".gitignore" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/getting-started-with-clojure-webapps/src/" (21817 229 0 0) "getting_started_with_clojure_webapps/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/clojure-examples/src/clojure_examples/" (21816 39621 0 0) "palindrom.clj" "nearest_number.clj" "fizzbuzz.clj" "../" "./")
+
+ ("/Users/jumar/" (21816 37921 0 0) "workspace/" "Work/" "VirtualBox VMs/" "vertica/" "tools/" "temp.txt" "src/" "site/" "share-vm/" "screen.png" "screen 2.png" "screen 1.png" "reports/" "Public/" "Private/" "ppl-01L" "ppl-01" "pomodairo-1.1.db" "playground/" "Pictures/" "out.txt" "My Education_brain/" "My Education.brain" "My Brain_brain/" "My Brain.brain" "My All_brain/" "My All.brain" "Music/" "msf-r102-1-test16" "msf-r102-1-test15" "msf-r102-1-test11" "Movies/" "Library/" "lib/" "jma-r102-3" "jma-r102-2" "jma-develop" "jma-develo[" "git-completion.bash" "gatling/" "findlog.groovy" "exercism/" "etc_profile" "emacs.d.backup/" "emacs-live-old-config/" "Downloads/" "Documents/" "dl-tool-bin.new.zip" "dl-tool/" "Desktop/" "data/" "cloudconnect/" "backup/" "Applications/" ".zinc/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tmuxinator/" ".tmux.conf.pi" ".tmux.conf" ".TheBrain/" ".Table_preferences" ".swt/" ".subversion/" ".ssh/" ".squirrel-sql/" ".rstudio-desktop/" ".Rhistory" ".RData" ".profile" ".npm/" ".node-gyp/" ".nbprofiler/" ".mongorc.js" ".matplotlib/" ".m2/" ".local/" ".live-packs/" ".lesshst" ".lein/" ".kube/" ".IntelliJIdea14/" ".ideaLibSources/" ".gradle/" ".gitignore_global" ".gitconfig" ".ghc/" ".gem/" ".GDC_Tools_2015/" ".exercism.json" ".esets/" ".embedmongo/" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".emacs-live.el" ".DS_Store" ".dbvis/" ".dbshell" ".dbeaver/" ".cups/" ".config/" ".clojure.d/" ".CFUserTextEncoding" ".cargo/" ".cache/" ".boot2docker/" ".bashrc" ".bash_profile" ".bash_history" ".bash_completion_tmux.sh" ".android/" "../" "./")
+
+ ("/Users/jumar/.emacs.d/" (21816 38190 0 0) "tmp/" "smex-items" "README.md" "packs/" "manifest.el" "LICENSE.txt" "lib/" "installer/" "init.el" "ido.last" "etc/" "elpa/" "CHANGELOG.md" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/clojure-code-wars/test/" (21812 56114 0 0) "clojure_code_wars/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/clojure-code-wars/src/clojure_code_wars/" (21812 56014 0 0) "unpack.clj" "target/" "skin_a_cat.clj" "sequence.clj" "reverse_longer.clj" "reverse.clj" "multiply.clj" "multiplies_three_and_five.clj" "haskell_array_operations.clj" "hamming.clj" "greeter.clj" "function_composition.clj" "dir_reduc.clj" "bookseller.clj" ".multiplies_three_and_five.clj.swp" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/project-euler-clojure/" (21811 18764 0 0) "README.md" "02_even_fibonacci.clj" "01_multiplies3and5.clj" ".git/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/clojure-code-wars/src/" (21803 45655 0 0) "clojure_code_wars/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/clojure-code-wars/" (21812 4985 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".lein-repl-history" ".lein-failures" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/examples/ch02/" (21794 17543 0 0) "vars.clj" "functions.clj" "forms.clj" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/" (21794 18116 0 0) "tutorial/" "project-euler-clojure/" "ProgrammingClojure2ed/" "JoyOfClojure/" "clojure-java-maven/" "clojure-intro/" "brave-clojure/" ".DS_Store" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/brave-clojure/01-getting-started/" (21792 4048 0 0) "clojure-noob/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/brave-clojure/01-getting-started/clojure-noob/" (21792 6214 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".lein-repl-history" ".gitignore" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/brave-clojure/01-getting-started/clojure-noob/src/" (21792 4048 0 0) "clojure_noob/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/brave-clojure/01-getting-started/clojure-noob/src/clojure_noob/" (21792 9605 0 0) "core.clj" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/code/src/examples/" (21792 3727 0 0) "wallingford.clj" "utils.clj" "trampoline.clj" "test.clj" "tasklist.clj" "snippet.clj" "snake.clj" "server/" "sequences.clj" "replace_symbol.clj" "protocols.clj" "primes.clj" "preface.clj" "pi.clj" "multimethods.clj" "multimethods/" "midi.clj" "memoized_male_female.clj" "male_female_seq.clj" "male_female.clj" "macros.clj" "macros/" "life_without_multi.clj" "lazy_index_of_any.clj" "io.clj" "introduction.clj" "interop.clj" "index_of_any.clj" "import_static.clj" "gulp.clj" "generator.clj" "functional.clj" "exploring.clj" "expectorate.clj" "error_kit.clj" "cryptovault_complete.clj" "cryptovault.clj" "concurrency.clj" "chat.clj" "atom_snake.clj" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/tutorial/" (21792 1989 0 0) "TUTORIAL.emacs" "overtone.clj" "learn-clojure-in-15-minutes/" "foo" "emacs-clojure/" "clojure-web-apps/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/euler/" (21794 17288 0 0) "../" "./")
+
+ ("/Users/jumar/workspace/clojure/brave-clojure/" (21792 4019 0 0) "01-getting-started/" "../" "./")
+
+ ("/Users/" (21769 19886 0 0) "Shared/" "jumar/" ".localized" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/examples/ch01/" (21792 3727 0 0) "person.clj" "isBlank.java" "isBlank.clj" "introduction.clj" "hello.clj" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/examples/" (21792 9046 0 0) "ch02/" "ch01/" ".DS_Store" "../" "./")
+
+ ("/Users/jumar/.emacs.d/packs/" (21792 117 0 0) "update-live-packs" "template/" "stable/" "dev/" "../" "./")
+
+ ("/Users/jumar/.emacs.d/packs/stable/" (21792 116 0 0) "power-pack/" "org-pack/" "lang-pack/" "git-pack/" "foundation-pack/" "colour-pack/" "clojure-pack/" "bindings-pack/" "../" "./")
+
+ ("/Users/jumar/.emacs.d/packs/stable/bindings-pack/" (21792 115 0 0) "init.el" "info.el" "config/" "../" "./")
+
+ ("/Users/jumar/.emacs.d/packs/stable/bindings-pack/config/" (21792 1407 0 0) "default-bindings.el" ".#default-bindings.el" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/code/src/" (21153 11602 0 0) "reader/" "examples/" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/code/" (21792 264 0 0) "test/" "target/" "src/" "public/" "project.clj" "output/" "data/" "clojurebreaker/" ".nrepl-port" ".lein-repl-history" "../" "./")
+
+ ("/Users/jumar/workspace/clojure/ProgrammingClojure2ed/" (21791 4037 0 0) "shcloj2-code.tgz" "examples/" "code/" ".DS_Store" "../" "./")
+
+ ("/Users/jumar/workspace/" (21778 42358 0 0) "wordpress/" "test/" "scala/" "samples/" "rust/" "ruby/" "python/" "opensource/" "leetcode/" "katas/" "javascript/" "java/" "JaroKrivus/" "investaukce/" "intellij-idea/" "haskell/" "groovy/" "erlang/" "dojos/" "docker/" "datascience/" "data-modeling/" "courses/" "clojure/" "C/" "brains/" "books/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

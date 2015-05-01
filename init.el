@@ -240,3 +240,7 @@
 (add-to-list 'load-path "~/.emacs.d/es-windows")
 (add-to-list 'load-path "~/.emacs.d/project-explorer/")
 (require 'project-explorer)
+
+;;; CIDER
+;; don't show cider error buffer - it's tedious
+(setq cider-show-error-buffer nil)
